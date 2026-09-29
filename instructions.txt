@@ -1,0 +1,31 @@
+🔧 File Purpose:
+This Python script generates a realistic excuses as instructed by the user. (e.g., missed exam, sick leave, traffic delay)
+
+✅ Features:
+- Fully offline and beginner-friendly
+- Automatically customizes messages based on keywords in the scenario (like "exam", "sick", "traffic")
+- Creates apologies and explanations for various situations
+
+🧠 How It Works:
+1. The user inputs a situation/scenario like: "missed exam due to sickness"
+2. The script checks keywords in the scenario and selects relevant fake messages
+3. The script generates a realistic excuse based on the selected messages
+4. The user can print or copy the generated excuse
+
+📥 Output:
+- Content: 3-4 chat bubbles with context-based messages (Mom, Teacher, Boss, etc.)
+- Use in excuse PDFs or reports as visual proof
+
+📦 Requirements:
+- Python installed
+- Required libraries too installed
+- Ollama and llama3 installed on user computer
+
+
+✍️ Customization Ideas:
+- Add timestamps to messages
+- Insert profile pictures/icons
+- Create separate templates for Instagram, email, call logs, etc.
+
+Author: AI Excuse Generator Project
+Version: 1.0
